@@ -1,0 +1,17 @@
+/home/alex/C#/practice/bin/Debug/net7.0/practice
+/home/alex/C#/practice/bin/Debug/net7.0/practice.deps.json
+/home/alex/C#/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/home/alex/C#/practice/bin/Debug/net7.0/practice.dll
+/home/alex/C#/practice/bin/Debug/net7.0/practice.pdb
+/home/alex/C#/practice/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/alex/C#/practice/obj/Debug/net7.0/practice.csproj.AssemblyReference.cache
+/home/alex/C#/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/C#/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/home/alex/C#/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/home/alex/C#/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/home/alex/C#/practice/obj/Debug/net7.0/practice.csproj.CopyComplete
+/home/alex/C#/practice/obj/Debug/net7.0/practice.dll
+/home/alex/C#/practice/obj/Debug/net7.0/refint/practice.dll
+/home/alex/C#/practice/obj/Debug/net7.0/practice.pdb
+/home/alex/C#/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/home/alex/C#/practice/obj/Debug/net7.0/ref/practice.dll
